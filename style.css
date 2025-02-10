@@ -1,0 +1,26 @@
+.container {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-family: sans-serif;
+  }
+  
+  #factDisplay {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  #factButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #dogType, #dogGender {
+    font-size: 16px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
